@@ -1,0 +1,33 @@
+/* body{
+    min-width: 2000px;
+} */
+.navbar {
+  background-color: rgb(219, 103, 54);
+}
+
+.jumbotron {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: rgb(219, 103, 54);
+  text-align: center;
+  color: white;
+  border-radius: 0 0 0 100px;
+}
+#sec3 {
+  background-color: rgb(88, 88, 88);
+  text-align: start;
+  color: white;
+  border-radius: 0 70px 0 70px;
+}
+
+#login {
+  background-color: white;
+}
+
+footer {
+  padding-top: 80px;
+  padding-bottom: 100px;
+  background: rgb(60, 60, 60);
+  color: white;
+  border-radius: 0 100px 0 0;
+}
